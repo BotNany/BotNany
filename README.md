@@ -25,7 +25,9 @@
 
 <div align="center">
 
-![snake gif](https://github.com/BotNany/BotNany/blob/output/github-contribution-grid-snake.svg)
+<a href="mailto:naianysilvap@outlook.com?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido automaticamente">My email</a>
+
+
 
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{BotNany}/count.svg" /></p> 
