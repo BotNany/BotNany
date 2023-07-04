@@ -25,7 +25,7 @@
 
 <div align="center">
 
-<a href="mailto:naianysilvap@outlook.com?subject=Assunto do email&cc=copia@provedor.com.br&bcc=copiaoculta@provedor.com.br&body=Conteúdo do email que será preenchido automaticamente">My email</a>
+
 
 
 
